@@ -1,0 +1,22 @@
+bug => bicho
+
+0. Trabajo en equipo y sincronizado
+    - git y github
+    - GIT:
+        - enviar cambios
+        - recibir cambios
+        - resolver conflictos
+    - Github:
+        - almancenar de forma centralizada nuestro proyecto frontend
+
+1. HTML y CSS
+
+2. Layout
+  - contenido principal
+  - contenido secundario
+
+3. Proyecto: Pagina web de compras
+  - Angular
+      - javascript
+      - html
+      - css
