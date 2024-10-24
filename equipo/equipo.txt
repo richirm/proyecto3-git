@@ -6,8 +6,20 @@ bug => bicho
         - enviar cambios
         - recibir cambios
         - resolver conflictos
-    - Github:
+    - Github: (bitbucket, gitlab, etc)
         - almancenar de forma centralizada nuestro proyecto frontend
+        - pasos:
+            - crearnos nuestra cuenta
+            - crear nuevo repositorio
+            - invitar a colaboradores
+            - clonar el repositorio en nuestra computadora
+              > git --version => para saber las version del git
+              > git clone URL => para descargarnos por primera vez el repositorio
+              > git status    => para saber qué archivos hemos modificado
+    - Herramientas:
+        - Visuales para gestionar git:
+          - Tortoise
+          - Visual Studio GIT
 
 1. HTML y CSS
 
