@@ -18,8 +18,9 @@ bug => bicho
               > git status    => para saber qué archivos hemos modificado
               > git add archivo => indica al git que este archivo ya está preparado para hacerle commit
               > git commit -m "mensaje" => indica al git que estamos confirmando los cambios para hacerle push
-              > git push origin main => envia hacia el repositorio todos los commits locales
+              > git push origin main => envia hacia el repositorio todos los commits locales              
               > git pull origin main => descarga los commits del repositorio hacia nuestro local
+              > git log => podemos ver el historial de commits
     - Herramientas:
         - Visuales para gestionar git:
           - Tortoise
