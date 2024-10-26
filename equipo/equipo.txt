@@ -25,6 +25,9 @@ bug => bicho
         - Visuales para gestionar git:
           - Tortoise
           - Visual Studio GIT
+        - Visual Studio Code (VsCode)
+          - Extensiones:
+              - git lens
 
 1. HTML y CSS
 
@@ -41,4 +44,6 @@ bug => bicho
 4.Prueba rober
 
 5. Prueba Vanessa
+
+// Reto: crear un archivo nuevo y subir al repositorio
       
