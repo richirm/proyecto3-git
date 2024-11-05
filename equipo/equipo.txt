@@ -47,3 +47,4 @@ bug => bicho
 
 // Reto: crear un archivo nuevo y subir al repositorio
 // Reto: crear otro archivo nuevo y subir al repositorio
+// Reto: resolver un conflicto
