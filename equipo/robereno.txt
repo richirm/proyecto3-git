@@ -5,8 +5,4 @@ modificar linea
 linea nueva 2024
 linea nueva 2025
 pruebita rober
-<<<<<<< HEAD
 verdadero
-=======
-falso
->>>>>>> ba81ea9578bca9c90417f3988829248a9c13dbcd
