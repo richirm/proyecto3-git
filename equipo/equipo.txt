@@ -23,6 +23,11 @@ bug => bicho
               > git push origin main => envia hacia el repositorio todos los commits locales              
               > git pull origin main => descarga los commits del repositorio hacia nuestro local
               > git log => podemos ver el historial de commits
+
+              > git checkout -b nueva-rama => Genera una nueva rama partiendo de la rama en la que te encuentres parado
+                    feature/nombre-rama
+                    hotfix/nombre-rama
+
     - Herramientas:
         - Visuales para gestionar git:
           - Tortoise
