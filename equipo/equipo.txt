@@ -32,6 +32,7 @@ bug => bicho
 
     - Buenas practicas:
         - git pull de mi rama al iniciar el dia
+        - Para crear una nueva feature, hay que posicionarnos en la rama main y actualizarla primero con pull
 
     - Herramientas:
         - Visuales para gestionar git:
