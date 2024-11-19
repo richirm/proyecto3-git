@@ -28,6 +28,11 @@ bug => bicho
                     feature/nombre-rama => ramas para crear nuevas funcionalidades
                     hotfix/nombre-rama => rama para resolver problemas de produccion
 
+              > git checkout rama-x => Me cambio a la rama "rama-x"
+
+    - Buenas practicas:
+        - git pull de mi rama al iniciar el dia
+
     - Herramientas:
         - Visuales para gestionar git:
           - Tortoise
