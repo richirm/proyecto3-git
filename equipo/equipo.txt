@@ -25,8 +25,13 @@ bug => bicho
               > git log => podemos ver el historial de commits
 
               > git checkout -b nueva-rama => Genera una nueva rama partiendo de la rama en la que te encuentres parado
-                    feature/nombre-rama
-                    hotfix/nombre-rama
+                    feature/nombre-rama => ramas para crear nuevas funcionalidades
+                    hotfix/nombre-rama => rama para resolver problemas de produccion
+
+              > git checkout rama-x => Me cambio a la rama "rama-x"
+
+    - Buenas practicas:
+        - git pull de mi rama al iniciar el dia
 
     - Herramientas:
         - Visuales para gestionar git:
