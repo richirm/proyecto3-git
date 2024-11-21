@@ -30,6 +30,8 @@ bug => bicho
 
               > git checkout rama-x => Me cambio a la rama "rama-x"
 
+              > git fetch => Actualiza tu local con el reposito remoto, trae las ramas que hay en el remoto
+
     - Buenas practicas:
         - git pull de mi rama al iniciar el dia
         - Para crear una nueva feature, hay que posicionarnos en la rama main y actualizarla primero con pull
